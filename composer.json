@@ -1,15 +1,16 @@
 {
-    "name": "small_jedi/util.tg",
-    "autoload": {
-        "psr-4": {
-            "SmallJedi\\UtilTg\\": "core/"
-        }
-    },
-    "authors": [
-        {
-            "name": "small_jedi",
-            "email": "popugau@gmail.com"
-        }
-    ],
-    "require": {}
+  "name": "small_jedi/util.tg",
+  "version": "1.0",
+  "autoload": {
+    "psr-4": {
+      "SmallJedi\\UtilTg\\": "core/"
+    }
+  },
+  "authors": [
+    {
+      "name": "small_jedi",
+      "email": "popugau@gmail.com"
+    }
+  ],
+  "require": {}
 }
