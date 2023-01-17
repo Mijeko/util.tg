@@ -1,4 +1,9 @@
 <?php
+
+namespace SmallJedi\Core\Api;
+
+use SmallJedi\Core\Json;
+
 class TgBotApi
 {
     private $tg_token;
