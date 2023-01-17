@@ -1,0 +1,15 @@
+{
+    "name": "small_jedi/util.tg",
+    "autoload": {
+        "psr-4": {
+            "SmallJedi\\UtilTg\\": "core/"
+        }
+    },
+    "authors": [
+        {
+            "name": "small_jedi",
+            "email": "popugau@gmail.com"
+        }
+    ],
+    "require": {}
+}
